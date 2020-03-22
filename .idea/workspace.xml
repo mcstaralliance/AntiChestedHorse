@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53865769-bc61-48c7-8651-44d36a065a63" name="Default Changelist" comment="" />
+    <list default="true" id="53865769-bc61-48c7-8651-44d36a065a63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xtuly/cmp/antichestedhorse/AntiChestedHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xtuly/cmp/antichestedhorse/AntiChestedHorse.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
@@ -86,6 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584866477894</updated>
       <workItem from="1584866484708" duration="6410000" />
+      <workItem from="1584879831267" duration="59000" />
     </task>
     <servers />
   </component>

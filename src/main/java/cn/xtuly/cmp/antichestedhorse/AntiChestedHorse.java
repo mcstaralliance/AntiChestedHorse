@@ -31,6 +31,9 @@ public final class AntiChestedHorse extends JavaPlugin {
         if (!label.equalsIgnoreCase("ach") || !(sender instanceof Player)) {
             return false;
         }
+        if(!sender.hasPermission("ach.switch")){
+            return false;
+        }
         if(args.length == 0){
             FileConfiguration config = Config.load("AntiChestedHorse");
             if(config.getBoolean("start")){
