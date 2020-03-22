@@ -1,0 +1,14 @@
+name: AntiChestedHorse
+version: 0.0.1
+main: cn.xtuly.cmp.antichestedhorse.AntiChestedHorse
+authors: [DoraLY]
+description: Anti Chested Horse
+website: xtuly.cn
+commands:
+  ach:
+    permission: ach.switch
+permissions:
+  ach.switch:
+    default: op
+  ach.bypass:
+    default: op
